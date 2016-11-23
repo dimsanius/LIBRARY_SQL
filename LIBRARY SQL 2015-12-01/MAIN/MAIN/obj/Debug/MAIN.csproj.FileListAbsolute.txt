@@ -1,0 +1,45 @@
+C:\Users\Dimon\Desktop\LIBRARY SQL\MAIN\MAIN\bin\Debug\MAIN.exe.config
+C:\Users\Dimon\Desktop\LIBRARY SQL\MAIN\MAIN\bin\Debug\MAIN.exe
+C:\Users\Dimon\Desktop\LIBRARY SQL\MAIN\MAIN\bin\Debug\MAIN.pdb
+C:\Users\Dimon\Desktop\LIBRARY SQL\MAIN\MAIN\obj\Debug\MAIN.csprojResolveAssemblyReference.cache
+C:\Users\Dimon\Desktop\LIBRARY SQL\MAIN\MAIN\obj\Debug\MAIN.Form1.resources
+C:\Users\Dimon\Desktop\LIBRARY SQL\MAIN\MAIN\obj\Debug\MAIN.Properties.Resources.resources
+C:\Users\Dimon\Desktop\LIBRARY SQL\MAIN\MAIN\obj\Debug\MAIN.csproj.GenerateResource.Cache
+C:\Users\Dimon\Desktop\LIBRARY SQL\MAIN\MAIN\obj\Debug\MAIN.exe
+C:\Users\Dimon\Desktop\LIBRARY SQL\MAIN\MAIN\obj\Debug\MAIN.pdb
+C:\Users\admin\Desktop\LIBRARY SQL\MAIN\MAIN\bin\Debug\MAIN.exe.config
+C:\Users\admin\Desktop\LIBRARY SQL\MAIN\MAIN\obj\Debug\MAIN.exe
+C:\Users\admin\Desktop\LIBRARY SQL\MAIN\MAIN\obj\Debug\MAIN.pdb
+C:\Users\admin\Desktop\LIBRARY SQL\MAIN\MAIN\obj\Debug\MAIN.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\LIBRARY SQL\MAIN\MAIN\obj\Debug\MAIN.Form1.resources
+C:\Users\admin\Desktop\LIBRARY SQL\MAIN\MAIN\obj\Debug\MAIN.Properties.Resources.resources
+C:\Users\admin\Desktop\LIBRARY SQL\MAIN\MAIN\obj\Debug\MAIN.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\LIBRARY SQL\MAIN\MAIN\bin\Debug\MAIN.exe
+C:\Users\admin\Desktop\LIBRARY SQL\MAIN\MAIN\bin\Debug\MAIN.pdb
+C:\Users\admin\Desktop\LIBRARY SQL\MAIN\MAIN\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\admin\Desktop\LIBRARY SQL 2015-11-10\MAIN\MAIN\bin\Debug\MAIN.exe.config
+C:\Users\admin\Desktop\LIBRARY SQL 2015-11-10\MAIN\MAIN\obj\Debug\MAIN.exe
+C:\Users\admin\Desktop\LIBRARY SQL 2015-11-10\MAIN\MAIN\obj\Debug\MAIN.pdb
+C:\Users\admin\Desktop\LIBRARY SQL 2015-11-10\MAIN\MAIN\bin\Debug\MAIN.exe
+C:\Users\admin\Desktop\LIBRARY SQL 2015-11-10\MAIN\MAIN\bin\Debug\MAIN.pdb
+C:\Users\admin\Desktop\LIBRARY SQL 2015-11-10\MAIN\MAIN\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\admin\Desktop\LIBRARY SQL 2015-11-10\MAIN\MAIN\obj\Debug\MAIN.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\LIBRARY SQL 2015-11-10\MAIN\MAIN\obj\Debug\MAIN.Form1.resources
+C:\Users\admin\Desktop\LIBRARY SQL 2015-11-10\MAIN\MAIN\obj\Debug\MAIN.Properties.Resources.resources
+C:\Users\admin\Desktop\LIBRARY SQL 2015-11-10\MAIN\MAIN\obj\Debug\MAIN.csproj.GenerateResource.Cache
+C:\Users\Dimon\Desktop\LIBRARY_SQL_2015-12-01-2016-03-26\LIBRARY SQL 2015-12-01\MAIN\MAIN\bin\Debug\MAIN.exe.config
+C:\Users\Dimon\Desktop\LIBRARY_SQL_2015-12-01-2016-03-26\LIBRARY SQL 2015-12-01\MAIN\MAIN\obj\Debug\MAIN.exe
+C:\Users\Dimon\Desktop\LIBRARY_SQL_2015-12-01-2016-03-26\LIBRARY SQL 2015-12-01\MAIN\MAIN\obj\Debug\MAIN.pdb
+C:\Users\Dimon\Desktop\LIBRARY_SQL_2015-12-01-2016-03-26\LIBRARY SQL 2015-12-01\MAIN\MAIN\obj\Debug\MAIN.csprojResolveAssemblyReference.cache
+C:\Users\Dimon\Desktop\LIBRARY_SQL_2015-12-01-2016-03-26\LIBRARY SQL 2015-12-01\MAIN\MAIN\obj\Debug\MAIN.Form1.resources
+C:\Users\Dimon\Desktop\LIBRARY_SQL_2015-12-01-2016-03-26\LIBRARY SQL 2015-12-01\MAIN\MAIN\obj\Debug\MAIN.Properties.Resources.resources
+C:\Users\Dimon\Desktop\LIBRARY_SQL_2015-12-01-2016-03-26\LIBRARY SQL 2015-12-01\MAIN\MAIN\obj\Debug\MAIN.csproj.GenerateResource.Cache
+C:\Users\Dimon\Desktop\LIBRARY_SQL_2015-12-01-2016-03-26\LIBRARY SQL 2015-12-01\MAIN\MAIN\bin\Debug\MAIN.exe
+C:\Users\Dimon\Desktop\LIBRARY_SQL_2015-12-01-2016-03-26\LIBRARY SQL 2015-12-01\MAIN\MAIN\bin\Debug\MAIN.pdb
+C:\Users\Dimon\Desktop\LIBRARY_SQL_2015-12-01-2016-03-26\LIBRARY SQL 2015-12-01\MAIN\MAIN\obj\Debug\MAIN.DetailedUser.resources
+C:\Users\Dimon\Desktop\LIBRARY_SQL_2015-12-01-2016-03-26\LIBRARY SQL 2015-12-01\MAIN\MAIN\obj\Debug\MAIN.AddStudent.resources
+C:\Users\Dimon\Desktop\LIBRARY_SQL_2015-12-01-2016-03-26\LIBRARY SQL 2015-12-01\MAIN\MAIN\obj\Debug\MAIN.Forms.AddingOfABook.resources
+C:\Users\Dimon\Desktop\LIBRARY_SQL_2015-12-01-2016-03-26\LIBRARY SQL 2015-12-01\MAIN\MAIN\obj\Debug\MAIN.Forms.UDKManagementForm.resources
+C:\Users\Dimon\Desktop\LIBRARY_SQL\LIBRARY SQL 2015-12-01\MAIN\MAIN\bin\Debug\MAIN.exe.config
+C:\Users\Dimon\Desktop\LIBRARY_SQL\LIBRARY SQL 2015-12-01\MAIN\MAIN\obj\Debug\MAIN.exe
+C:\Users\Dimon\Desktop\LIBRARY_SQL\LIBRARY SQL 2015-12-01\MAIN\MAIN\obj\Debug\MAIN.pdb
